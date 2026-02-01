@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pio --help:*)",
+      "Bash(platformio --help:*)",
+      "Bash(platformio run:*)",
+      "Bash(pio run:*)",
+      "Bash(python -m platformio:*)",
+      "Bash(cmd.exe /c \"platformio run\")",
+      "Bash(git init:*)",
+      "Bash(git config:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
