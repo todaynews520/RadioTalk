@@ -319,6 +319,14 @@ platformio run --target upload && platformio device monitor -b 115200
 
 ## 致谢
 
+### 原创项目
+
+- **原作者**: [gutao3800](https://oshwhub.com/gutao3800)
+- **原始项目**: [Radio and Interphone 立创开源](https://oshwhub.com/gutao3800/radio-and-interphone-lichuang-xi)
+- 本仓库是在原项目基础上进行了代码质量改进和安全增强的 Fork 版本
+
+### 使用的库
+
 - [HamShield](https://github.com/Whensomebodylovesyou/HamShield) - A1846S 库
 - [RDA5807](https://github.com/peakcreative/RDA5807) - FM 收音机库
 - [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - 显示屏库

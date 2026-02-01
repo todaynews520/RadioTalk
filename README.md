@@ -319,6 +319,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
+### Original Project
+
+- **Original Author**: [gutao3800](https://oshwhub.com/gutao3800)
+- **Original Project**: [Radio and Interphone (立创开源)](https://oshwhub.com/gutao3800/radio-and-interphone-lichuang-xi)
+- This repository is a fork with code quality improvements and safety enhancements
+
+### Libraries Used
+
 - [HamShield](https://github.com/Whensomebodylovesyou/HamShield) - A1846S library
 - [RDA5807](https://github.com/peakcreative/RDA5807) - FM radio library
 - [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Display library
